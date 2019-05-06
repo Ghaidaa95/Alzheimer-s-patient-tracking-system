@@ -3,10 +3,10 @@ Losing navigational skills or getting lost is a big trouble for the Alzheimer's 
 
 This project was designed and developed by a group of Computer Science student in Umm Al-Qura University batch 34 as a Research and graduation project under the name: Alzheimer's patient Tracking System using Arduino.
 Team Members:
-Ghaidaa Alorini
-Sara Alghamdi
-Futoon Gammash
-Futoon Alosaimi
-Ahad Habib
+Ghaidaa Alorini,
+Sara Alghamdi,
+Futoon Gammash,
+Futoon Alosaimi,
+Ahad Habib.
 PROJECT SUPERVISOR:
 Dr. Mohsin Bilal
